@@ -54,5 +54,7 @@ CREATE TABLE "titles" (
     CONSTRAINT "pk_titles" PRIMARY KEY (
         "title_id"
      )
-);
+
+    
+    );
 
